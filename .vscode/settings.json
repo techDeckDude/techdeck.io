@@ -1,0 +1,8 @@
+{
+    "java.project.sourcePaths": [
+        "src/com.examples.performantTcpServer",
+        "src/com.examples.basicUdpServer",
+        "src/com.examples.basicTcpServer",
+        "src/com.examples.byteUtils"
+    ]
+}
